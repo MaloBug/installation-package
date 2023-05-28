@@ -32,4 +32,3 @@ echo "Cleaning up..."
 brew cleanup
 
 echo "All installations complete!"
-
